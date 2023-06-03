@@ -17,7 +17,7 @@ For didactic purposes, my primary focus was on achieving maximum optimization. H
 
 To use the `libft` library in your C project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/libft.git`
+1. Clone the repository: `git clone https://github.com/codemarc42/libft.git`
 2. Include the `libft.h` header file in your source code: `#include "libft.h"`
 3. Compile your project with the `libft.a` static library: `gcc -Wall -Wextra -Werror -L./libft -lft -o your_name_program your_source_files.c`
 

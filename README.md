@@ -1,6 +1,13 @@
-# Libft
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8afmpq800110gigpyvjzcj3/project/2454232" alt="marza-ga's 42 Libft Score" /></a>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8afmpq800110gigpyvjzcj3/project/2454232" alt="marza-ga's 42 Libft Score" /></a></td>
+      <td><a href="README-es.md" >Read in Spanish <g-emoji class="g-emoji" alias="es" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png">🇪🇸</g-emoji></a></td>
+    </tr>
+  </tbody>
+</table>
 
+# Libft 
 **Libft** is the first 42 School Common Core project. The objective of this project is to develop a library of utility functions written in C that provide commonly used functionalities.
 For didactic purposes, my primary focus was on achieving maximum optimization. However, I also took into consideration the importance of maintaining easy understanding, even if it meant sacrificing some optimization in certain functions.
 
